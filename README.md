@@ -1,7 +1,7 @@
 # DataViz
 Repository for BDPV MGT6655A.
 
-# Dashboard
+# 1.Dashboard
 ## Dataset
  HomeValue - Zillow (ZHVI)
  Rentals - Zillow (ZORI)
