@@ -1,5 +1,4 @@
-# DataViz
-Repository for BDPV MGT6655A.
+# Repository for BDPV MGT6655A.
 
 # 1.Dashboard
 ## Dataset
